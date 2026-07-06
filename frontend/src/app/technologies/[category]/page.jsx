@@ -12,9 +12,9 @@ const categoryBanners = {
 const technologiesData = {
    
     "clinical-trial-management-software": {
-        title: "Eric Clinical Trial Management Software(CTMS)",
+        title: "eRIC Clinical Trial Management Software(CTMS)",
         subtitle: "Scalable and Cost Effective Clinical Study Solutions",
-        description:"ERIC CTMS is designed to provide the benefits of a Clinical Trial Management System (CTMS) without the substantial upfront financial and resource commitments typical of traditional enterprise systems or the inefficiencies inherent in spreadsheet trackers.ERIC CTMS offers drug developers a scalable and cost-effective solution to enhance management, performance, and reduce study startup costs in clinical trials.",
+        description:"eRIC CTMS is designed to provide the benefits of a Clinical Trial Management System (CTMS) without the substantial upfront financial and resource commitments typical of traditional enterprise systems or the inefficiencies inherent in spreadsheet trackers.eRIC CTMS offers drug developers a scalable and cost-effective solution to enhance management, performance, and reduce study startup costs in clinical trials.",
         services: [
             {
                 title: "Portfolio Management",
@@ -51,12 +51,12 @@ const technologiesData = {
         ],
     },
      "electronic-data-transfer": {
-        title: "Eric Electronic Data Capture(EDC)",
+        title: "eRIC Electronic Data Capture(EDC)",
         subtitle: "Capture and Re-use Research Data from anywhere and anytime",
-        description:"ERIC’s Electronic Data Capture (EDC) simplifies the process of capturing your trial data and integrating it seamlessly with other data in your clinical trial ecosystem. ERIC EDC offers one of the shortest build times, with more than 90% of our studies deployed within the first three weeks. Explore ERIC EDC, our most robust module, to see how it can help you capture and manage all your study data in one centralized hub. ",
+        description:"eRIC’s Electronic Data Capture (EDC) simplifies the process of capturing your trial data and integrating it seamlessly with other data in your clinical trial ecosystem. eRIC EDC offers one of the shortest build times, with more than 90% of our studies deployed within the first three weeks. Explore eRIC EDC, our most robust module, to see how it can help you capture and manage all your study data in one centralized hub. ",
         services: [
             {
-                title: "Build Advance eCRF quickly",
+                title: "Build Advanced eCRFs Quickly",
                 desc: "Begin with one of our pre-built eCRF templates. Customize your form with 21 different field types. Clone and reuse forms as you develop additional studies",
             },
             {
@@ -68,7 +68,7 @@ const technologiesData = {
                 desc: "Simplify protocol amendments with a tool that’s secure, trackable, and easy to validate. Easily create test environments for your subsequent studies.",
             },
              {
-                title: "Acheive Global Compliance Easily",
+                title: "Achieve Global Compliance Easily",
                 desc: "Comply with global standards such as FDA CFR Part 11, GDPR (EU), ICH GCP, HIPAA (US), ISO 27001, and ISO 9001. Align with GCP, HL7 FHIR, and other regulatory guidelines. Adhere to GCP, HL7 FHIR, and other regulatory guidelines.",
             },
            

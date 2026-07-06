@@ -49,7 +49,7 @@ export default function WhyEricSection() {
 
         {/* Heading */}
         <h2 className="text-3xl md:text-4xl font-bold text-gray-800">
-          Why Eric Solutions?
+          Why eRIC Solutions?
         </h2>
 
         <p className="mt-4 text-blue-900 font-semibold tracking-wider text-2xl">
@@ -57,7 +57,7 @@ export default function WhyEricSection() {
         </p>
 
         <p className="mt-4 text-gray-600 max-w-3xl mx-auto text-sm md:text-base">
-          At <span className="font-semibold">Eric Solutions LLC</span>, we do more than deliver services—we solve problems, create opportunities, and build lasting value for our clients. Here's why individuals and biopharmaceutical organizations choose us as their trusted partner.
+          At <span className="font-semibold">eRIC Solutions LLC</span>, we do more than deliver services—we solve problems, create opportunities, and build lasting value for our clients. Here's why individuals and biopharmaceutical organizations choose us as their trusted partner.
         </p>
 
         {/* Cards */}
@@ -90,7 +90,7 @@ export default function WhyEricSection() {
           </h3>
 
           <p className="text-gray-600 mt-4 max-w-2xl mx-auto text-sm md:text-base">
-            Join the growing number of organizations that trust Eric Solutions to drive their success. Let’s discuss how we can solve your challenges and unlock new opportunities together.
+            Join the growing number of organizations that trust eRIC Solutions to drive their success. Let’s discuss how we can solve your challenges and unlock new opportunities together.
           </p>
 
           <button onClick={()=>{router.push('/contact')}} className="mt-6 px-6 py-3 bg-white font-semibold text-blue-900 shadow-md rounded-md hover:shadow-lg transition">

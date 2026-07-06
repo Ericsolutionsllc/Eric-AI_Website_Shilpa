@@ -38,10 +38,10 @@ export default function AboutPage() {
             Our Team Leader
           </span>
           <h2 className="text-3xl sm:text-4xl font-bold mb-4 mt-4">
-            Meet The <span className="text-[#0B5EA8]"> Brains</span>
+            Meet The <span className="text-[#0B5EA8]"> Team</span>
           </h2>
           <h2 className="text-3xl sm:text-4xl font-bold mb-4">
-            Behind The <span className="text-[#0B5EA8]"> Eric AI</span>
+            Behind The <span className="text-[#0B5EA8]"> eRIC AI</span>
           </h2>
         </section>
 

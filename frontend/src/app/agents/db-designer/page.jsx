@@ -29,7 +29,7 @@ export default function EricAIDBDesigner() {
           <div className="relative w-full">
             <img
               src="/aiagentspages/dbdesigner.jpg"
-              alt="Eric AI DB Designer"
+              alt="eRIC AI DB Designer"
               className="w-full h-full object-cover"
             />
 

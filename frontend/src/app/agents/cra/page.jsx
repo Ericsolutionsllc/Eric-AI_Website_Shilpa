@@ -31,7 +31,7 @@ export default function EricAICRA() {
           <div className="relative w-full">
             <img
               src="/aiagentspages/cra.jpg"
-              alt="Eric AI CRA"
+              alt="eRIC AI CRA"
               className="w-full h-full object-cover"
             />
             {/* <div className="absolute inset-0 bg-gradient-to-r from-black/40 via-black/20 to-transparent"></div> */}
@@ -72,7 +72,8 @@ export default function EricAICRA() {
                 whileInView={{ opacity: 1, y: 0 }}
                 className=" text-xl md:text-4xl text-gray-700"
               >
-                Monitoring should be risk-based, not travel-based.
+                {/* Monitoring should be risk-based, not travel-based. */}
+                Remote, risk-based monitoring
 
               </motion.p>
 

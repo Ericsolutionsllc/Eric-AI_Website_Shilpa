@@ -210,8 +210,7 @@ export default function EricAIMedicalWriter() {
               </div>
 
               <p className="mt-6 text-gray-600">
-                Delivered submission-ready documents in hours with full
-                regulatory alignment.
+                Drafts submission-ready documents in hours — every document reviewed and approved by a human medical writer before release.
               </p>
             </div>
           </div>

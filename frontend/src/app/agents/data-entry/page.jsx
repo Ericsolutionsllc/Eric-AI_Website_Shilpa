@@ -30,7 +30,7 @@ export default function EricAIDataEntry() {
                     <div className="relative w-full">
                         <img
                             src="/aiagentspages/dataentry.jpg"
-                            alt="Eric AI Data Entry"
+                            alt="eRIC AI Data Entry"
                             className="w-full h-full object-cover"
                         />
                         {/* <div className="absolute inset-0 bg-gradient-to-r from-black/40 via-black/20 to-transparent"></div> */}

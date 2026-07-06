@@ -16,9 +16,9 @@ const categoryBanners = {
 
 const servicesData = {
     "clinical-operation-project-management": {
-        title: "Clinical Operation & Project Management",
-        subtitle: "Clinical Operation & Project Management.",
-        description:"Our core strength lies in project management, supported by comprehensive and consistent processes that meet global regulatory standards. At Eric Solutions, we combine services and systems to deliver tailored solutions with faster timelines and cost-effective results, ensuring exceptional value for our clients.",
+        title: "Clinical Operations & Project Management",
+        subtitle: "Clinical Operations & Project Management.",
+        description:"Our core strength lies in project management, supported by comprehensive and consistent processes that meet global regulatory standards. At eRIC Solutions, we combine services and systems to deliver tailored solutions with faster timelines and cost-effective results, ensuring exceptional value for our clients.",
         services: [
             {
                 title: "Expert Project Management for Clinical Development Programs",
@@ -26,7 +26,7 @@ const servicesData = {
             },
             {
                 title: "Quality Clinical Monitoring: On-Site, Remote, and Centralized",
-                desc: "Eric Solutions delivers exceptional clinical monitoring solutions, offering flexibility through on-site, remote, and centralized approaches. As part of our commitment to innovation, we provide a cutting-edge remote monitoring platform designed to support decentralized clinical trials, ensuring efficiency, compliance, and seamless data management.",
+                desc: "eRIC Solutions delivers exceptional clinical monitoring solutions, offering flexibility through on-site, remote, and centralized approaches. As part of our commitment to innovation, we provide a cutting-edge remote monitoring platform designed to support decentralized clinical trials, ensuring efficiency, compliance, and seamless data management.",
             },
             {
                 title: "Optimized Resourcing for Maximum Efficiency",
@@ -38,62 +38,62 @@ const servicesData = {
             },
             {
                 title: "Site and Patient Solutions: Enhancing Recruitment and Engagement",
-                desc: "Eric Solutions specializes in innovative site and patient solutions, focusing on effective recruitment and meaningful patient engagement. Through strategic partnerships with leading site networks, we ensure seamless trial execution and improved patient participation, driving successful clinical outcomes.",
+                desc: "eRIC Solutions specializes in innovative site and patient solutions, focusing on effective recruitment and meaningful patient engagement. Through strategic partnerships with leading site networks, we ensure seamless trial execution and improved patient participation, driving successful clinical outcomes.",
             },
         ],
     },
     "data-management": {
         title: "Data Management Services",
-        subtitle: "ERIC Data Management: Comprehensive Clinical Data Management",
-        description:"At ERIC, our Clinical Data Management (CDM) team oversees every stage of the clinical trial process, from Case Report Form (CRF) design and Electronic Data Capture (EDC) development to database lock. With extensive experience across various therapeutic areas, we utilize EDC and paper-based systems while adhering to strict quality standards. ",
+        subtitle: "eRIC Data Management: Comprehensive Clinical Data Management",
+        description:"At eRIC, our Clinical Data Management (CDM) team oversees every stage of the clinical trial process, from Case Report Form (CRF) design and Electronic Data Capture (EDC) development to database lock. With extensive experience across various therapeutic areas, we utilize EDC and paper-based systems while adhering to strict quality standards. ",
         services: [
             {
-                title: "CRF Design at ERIC",
-                desc: "At ERIC, we specialize in Case Report Form (CRF) design, ensuring seamless data collection, accuracy, and regulatory compliance in clinical trials. Our team develops customized CRFs tailored to study protocols, optimizing Electronic Data Capture (EDC) systems and paper-based workflows for efficient data management.",
+                title: "CRF Design at eRIC",
+                desc: "At eRIC, we specialize in Case Report Form (CRF) design, ensuring seamless data collection, accuracy, and regulatory compliance in clinical trials. Our team develops customized CRFs tailored to study protocols, optimizing Electronic Data Capture (EDC) systems and paper-based workflows for efficient data management.",
             },
             {
-                title: "Database Design (eCRF & Paper) at ERIC",
+                title: "Database Design (eCRF & Paper) at eRIC",
                 desc: "Our team develops customized, protocol-driven databases optimized for Electronic Data Capture (EDC) systems and traditional paper-based workflows. With a focus on data integrity, validation, and regulatory adherence, we create structured, audit-ready databases that streamline clinical trial management and improve efficiency.",
             },
             {
-                title: "Data Management & SAS Programming at ERIC",
-                desc: "At ERIC, our Data Management (DM) and SAS Programming team ensures accurate, efficient, and regulatory-compliant clinical trial data processing. We specialize in data cleaning, validation, transformation, and statistical programming, enabling seamless CDISC SDTM & ADaM compliance.",
+                title: "Data Management & SAS Programming at eRIC",
+                desc: "At eRIC, our Data Management (DM) and SAS Programming team ensures accurate, efficient, and regulatory-compliant clinical trial data processing. We specialize in data cleaning, validation, transformation, and statistical programming, enabling seamless CDISC SDTM & ADaM compliance.",
             },
             {
-                title: "Blinded Data Entry at ERIC",
-                desc: "At ERIC, we ensure accurate and unbiased blinded data entry for clinical trials, maintaining data integrity and regulatory compliance. Our trained professionals handle electronic (eCRF) and paper-based data entry with strict quality control measures, minimizing errors and ensuring data confidentiality.",
+                title: "Blinded Data Entry at eRIC",
+                desc: "At eRIC, we ensure accurate and unbiased blinded data entry for clinical trials, maintaining data integrity and regulatory compliance. Our trained professionals handle electronic (eCRF) and paper-based data entry with strict quality control measures, minimizing errors and ensuring data confidentiality.",
             },
              {
-                title: "Data Validation at ERIC",
-                desc: "At ERIC, we ensure clinical trial data accuracy, consistency, and compliance through a rigorous data validation process. Our experts implement automated and manual validation checks to identify discrepancies, ensuring high-quality, regulatory-compliant datasets.",
+                title: "Data Validation at eRIC",
+                desc: "At eRIC, we ensure clinical trial data accuracy, consistency, and compliance through a rigorous data validation process. Our experts implement automated and manual validation checks to identify discrepancies, ensuring high-quality, regulatory-compliant datasets.",
             },
             {
                 title: "Clinical Data Coding",
-                desc: "At ERIC, we ensure standardized and compliant clinical data coding for accurate medical terminology classification in clinical trials. Our experts use industry-standard dictionaries such as MedDRA and WHODrug to code adverse events (AEs), concomitant medications, and medical history, ensuring regulatory compliance and data consistency.",
+                desc: "At eRIC, we ensure standardized and compliant clinical data coding for accurate medical terminology classification in clinical trials. Our experts use industry-standard dictionaries such as MedDRA and WHODrug to code adverse events (AEs), concomitant medications, and medical history, ensuring regulatory compliance and data consistency.",
             },
             {
-                title: "External Data Handling at ERIC",
-                desc: "External Data Handling at ERIC. At ERIC, we specialize in external data handling, seamlessly integrating data from central labs, biomarkers, imaging, and other third-party vendors into clinical trial databases. Our team ensures data consistency, accuracy, and regulatory compliance through rigorous data reconciliation, validation, and standardization processes.",
+                title: "External Data Handling at eRIC",
+                desc: "External Data Handling at eRIC. At eRIC, we specialize in external data handling, seamlessly integrating data from central labs, biomarkers, imaging, and other third-party vendors into clinical trial databases. Our team ensures data consistency, accuracy, and regulatory compliance through rigorous data reconciliation, validation, and standardization processes.",
             },
             {
-                title: "SAE Reconciliation at ERIC",
-                desc: "At ERIC, we ensure accurate and compliant Serious Adverse Event (SAE) reconciliation, aligning clinical and safety databases to maintain data integrity in clinical trials. Our experts systematically compare SAE data from clinical trial records and pharmacovigilance databases, identifying and resolving discrepancies to meet regulatory requirements.",
+                title: "SAE Reconciliation at eRIC",
+                desc: "At eRIC, we ensure accurate and compliant Serious Adverse Event (SAE) reconciliation, aligning clinical and safety databases to maintain data integrity in clinical trials. Our experts systematically compare SAE data from clinical trial records and pharmacovigilance databases, identifying and resolving discrepancies to meet regulatory requirements.",
             },
              {
-                title: "Medical Review at ERIC",
-                desc: "At ERIC, our Medical Review process ensures the accuracy, consistency, and clinical relevance of trial data. Our medical experts conduct comprehensive data assessments, identifying discrepancies, protocol deviations, and safety concerns to maintain regulatory compliance and data integrity.",
+                title: "Medical Review at eRIC",
+                desc: "At eRIC, our Medical Review process ensures the accuracy, consistency, and clinical relevance of trial data. Our medical experts conduct comprehensive data assessments, identifying discrepancies, protocol deviations, and safety concerns to maintain regulatory compliance and data integrity.",
             },
              {
-                title: "Protocol Validation at ERIC",
-                desc: "At ERIC, we ensure rigorous protocol validation to confirm that clinical trials adhere to regulatory guidelines, study objectives, and data integrity standards. Our experts conduct comprehensive protocol reviews, verifying consistency across Case Report Forms (CRFs), Electronic Data Capture (EDC) systems, and statistical analysis plans.",
+                title: "Protocol Validation at eRIC",
+                desc: "At eRIC, we ensure rigorous protocol validation to confirm that clinical trials adhere to regulatory guidelines, study objectives, and data integrity standards. Our experts conduct comprehensive protocol reviews, verifying consistency across Case Report Forms (CRFs), Electronic Data Capture (EDC) systems, and statistical analysis plans.",
             },
              {
-                title: "Database Closure at ERIC",
-                desc: "At ERIC, we ensure a seamless and compliant database closure process, marking the final stage of clinical data management. Our team conducts comprehensive data validation, discrepancy resolution, and quality checks to confirm data accuracy and integrity before locking the database.",
+                title: "Database Closure at eRIC",
+                desc: "At eRIC, we ensure a seamless and compliant database closure process, marking the final stage of clinical data management. Our team conducts comprehensive data validation, discrepancy resolution, and quality checks to confirm data accuracy and integrity before locking the database.",
             },
              {
-                title: "Data Mapping (CDISC) at ERIC",
-                desc: "At ERIC, we specialize in CDISC-compliant data mapping, ensuring seamless conversion of clinical trial data into SDTM (Study Data Tabulation Model) and ADaM (Analysis Data Model) formats. Our experts align raw data with CDISC standards, enhancing data consistency, traceability, and regulatory compliance for streamlined submissions to the FDA, EMA, and other regulatory bodies.",
+                title: "Data Mapping (CDISC) at eRIC",
+                desc: "At eRIC, we specialize in CDISC-compliant data mapping, ensuring seamless conversion of clinical trial data into SDTM (Study Data Tabulation Model) and ADaM (Analysis Data Model) formats. Our experts align raw data with CDISC standards, enhancing data consistency, traceability, and regulatory compliance for streamlined submissions to the FDA, EMA, and other regulatory bodies.",
             },
         ],
     },
@@ -123,7 +123,7 @@ const servicesData = {
     biostatistics: {
         title: "Biostatistics",
         subtitle: "Comprehensive Data Analysis Across Clinical Development Stages",
-        description:"ERIC excels in analyzing data from all phases of clinical development, leveraging diverse designs and statistical hypotheses. Our expertise includes interim analyses, adaptive and sequential designs, and sample size adjustments to ensure robust and flexible trial outcomes. ",
+        description:"eRIC excels in analyzing data from all phases of clinical development, leveraging diverse designs and statistical hypotheses. Our expertise includes interim analyses, adaptive and sequential designs, and sample size adjustments to ensure robust and flexible trial outcomes. ",
         services: [
             {
                 title: "Precise Sample Size Calculation",
@@ -153,8 +153,8 @@ const servicesData = {
     },
      "medical-writing": {
         title: "Medical Writing",
-        subtitle: "ERIC's Medical Writing Services",
-        description:"At ERIC, our medical writers collaborate with medical teams and statisticians to create accurate, regulatory-compliant clinical study reports (CSRs) while adhering to strict timelines. We follow ICH E3 guidelines or sponsor-specific formats to ensure clarity and compliance. We also support eCTD submissions and provide abstract, poster, and manuscript preparation, helping sponsors effectively present their study findings.",
+        subtitle: "eRIC's Medical Writing Services",
+        description:"At eRIC, our medical writers collaborate with medical teams and statisticians to create accurate, regulatory-compliant clinical study reports (CSRs) while adhering to strict timelines. We follow ICH E3 guidelines or sponsor-specific formats to ensure clarity and compliance. We also support eCTD submissions and provide abstract, poster, and manuscript preparation, helping sponsors effectively present their study findings.",
         services: [
             {
                 title: "Protocol Writing",
@@ -175,13 +175,13 @@ const servicesData = {
         ],
     },
      "etmf-services": {
-        title: "eTMF Service",
-        subtitle: "ERIC's eTMF Service",
+        title: "eTMF Services",
+        subtitle: "eRIC's eTMF Services",
         description:"Managing vast amounts of clinical trial documentation across multiple sites can be overwhelming, especially with semi-structured and unstructured data in varied formats. Multiple authors and versions make it challenging to maintain audit and inspection readiness, increasing compliance risks.",
         services: [
             {
                 title: "Ensuring Audit Readiness",
-                desc: "At ERIC, we help sponsors maintain audit and inspection readiness by ensuring accurate, compliant, and well-organized clinical documentation. Our solutions provide real-time data tracking, version control, and automated workflows, minimizing compliance risks.",
+                desc: "At eRIC, we help sponsors maintain audit and inspection readiness by ensuring accurate, compliant, and well-organized clinical documentation. Our solutions provide real-time data tracking, version control, and automated workflows, minimizing compliance risks.",
             },
             {
                 title: "Efficient Indexing and Workflow",
@@ -203,8 +203,8 @@ const servicesData = {
     },
      "pharmacovigilance": {
         title: "Pharmacovigilance",
-        subtitle: "ERIC Pharmacovigilance: Meeting Your Pharmacovigilance and Drug Safety Needs.",
-        description:"ERIC delivers tailored solutions to address your evolving pharmacovigilance and drug safety challenges. Through well-defined processes and seamless integration of data from diverse sources, we ensure robust safety monitoring.",
+        subtitle: "eRIC Pharmacovigilance: Meeting Your Pharmacovigilance and Drug Safety Needs.",
+        description:"eRIC delivers tailored solutions to address your evolving pharmacovigilance and drug safety challenges. Through well-defined processes and seamless integration of data from diverse sources, we ensure robust safety monitoring.",
         services: [
             {
                 title: "Efficient Case Processing and Reporting",

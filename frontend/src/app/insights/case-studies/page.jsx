@@ -69,7 +69,7 @@ export default function CaseStudyPage() {
             </motion.h1>
 
             <p className="text-lg text-slate-600 max-w-3xl mx-auto">
-              How Eric AI-powered systems helped a US-based oncology study
+              How eRIC AI-powered systems helped a US-based oncology study
               reduce startup timelines, improve data quality, and achieve faster
               site activation.
             </p>
@@ -107,7 +107,7 @@ export default function CaseStudyPage() {
         <section className="py-20 bg-white">
           <div className="max-w-6xl mx-auto px-6">
             <h2 className="text-3xl font-bold mb-12 text-center">
-              The Eric Solutions Approach
+              The eRIC Solutions Approach
             </h2>
 
             <div className="grid md:grid-cols-3 gap-8">
@@ -197,7 +197,7 @@ export default function CaseStudyPage() {
             <h2 className="text-3xl font-bold mb-6">Why It Matters</h2>
             <p className="text-slate-600 max-w-3xl mx-auto">
               By combining AI-driven automation with deep clinical expertise,
-              Eric Solutions transforms traditional clinical trial execution
+              eRIC Solutions transforms traditional clinical trial execution
               into a faster, more predictable, and data-driven process—helping
               sponsors bring therapies to market faster.
             </p>

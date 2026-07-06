@@ -19,7 +19,7 @@ const pillars = [
   {
     icon: "💰",
     title: "Cost",
-    desc: "Reduce data collection and monitoring costs by up to 80–90%.",
+    desc: "Reduce data collection and monitoring costs by up to 80% — see how in our breast-cancer case study.",
   },
   {
     icon: "🛡️",
@@ -120,7 +120,7 @@ export default function AboutPage() {
                     <p className="text-gray-600 text-md mb-3 text-justify">
                         Founded in 2016, headquartered in Plantation, Florida, with operations
                         in India and partners in Argentina, Hungary, Romania, and Australia. A
-                        full-service CRO and regulatory affairs organisation running ICH-GCP
+                        full-service CRO and regulatory affairs organization running ICH-GCP
                         trials Phase I–IV — focused on emerging biotech and device sponsors who
                         need senior attention and fixed-fee clarity.
                     </p>
@@ -178,7 +178,7 @@ export default function AboutPage() {
                     <p className="text-gray-600 text-md mb-3 text-justify">
                         Founded in 2016, headquartered in Plantation, Florida, with operations
                         in India and partners in Argentina, Hungary, Romania, and Australia. A
-                        full-service CRO and regulatory affairs organisation running ICH-GCP
+                        full-service CRO and regulatory affairs organization running ICH-GCP
                         trials Phase I–IV — focused on emerging biotech and device sponsors who
                         need senior attention and fixed-fee clarity.
                     </p>
@@ -214,7 +214,7 @@ export default function AboutPage() {
                 <p className="text-gray-600 text-sm mb-2 leading-relaxed text-justify">
                     Founded in 2016, headquartered in Plantation, Florida, with operations
                     in India and partners in Argentina, Hungary, Romania, and Australia. A
-                    full-service CRO and regulatory affairs organisation running ICH-GCP
+                    full-service CRO and regulatory affairs organization running ICH-GCP
                     trials Phase I–IV — focused on emerging biotech and device sponsors who
                     need senior attention and fixed-fee clarity.
                 </p>

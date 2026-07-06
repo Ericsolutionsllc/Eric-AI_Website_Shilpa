@@ -15,7 +15,7 @@ export default function HeroSection() {
 
       const features = [
     {
-      title: "Build Advance eCRF quickly",
+      title: "Build Advanced eCRFs Quickly",
       points: [
         "Begin with one of our pre-built eCRF templates.",
         "Customize your form with 21 different field types.",
@@ -78,11 +78,11 @@ export default function HeroSection() {
         "Get an overview of study statistics as your studies are ongoing..",
         "Track data entry progress and outstanding queries.",
         "View verification status (SDV) for steps.",
-        "ERIC introduces enhanced analytical dashboards."
+        "eRIC introduces enhanced analytical dashboards."
       ]
     },
     {
-      title: "Acheive Global Compliance Easily",
+      title: "Achieve Global Compliance Easily",
       points: [
         "Comply with global standards such as FDA CFR Part 11, GDPR (EU), ICH GCP, HIPAA (US), ISO 27001, and ISO 9001.",
         "Align with GCP, HL7 FHIR, and other regulatory guidelines.",
@@ -111,7 +111,7 @@ export default function HeroSection() {
 
         {/* Top Heading */}
         <h1 className="text-center text-3xl md:text-4xl font-semibold">
-          Eric Electronic Data Capture(EDC)
+          eRIC Electronic Data Capture(EDC)
         </h1>
 
         {/* Two Column Layout */}
@@ -125,11 +125,11 @@ export default function HeroSection() {
             </h2>
 
             <p className="text-gray-600 mb-4 leading-relaxed">
-             ERIC’s Electronic Data Capture (EDC) simplifies the process of capturing your trial data and integrating it seamlessly with other data in your clinical trial ecosystem. ERIC EDC offers one of the shortest build times, with more than 90% of our studies deployed within the first three weeks.
+             eRIC’s Electronic Data Capture (EDC) simplifies the process of capturing your trial data and integrating it seamlessly with other data in your clinical trial ecosystem. eRIC EDC offers one of the shortest build times, with more than 90% of our studies deployed within the first three weeks.
             </p>
 
             <p className="text-gray-600 mb-6 leading-relaxed">
-              Explore ERIC EDC, our most robust module, to see how it can help you capture and manage all your study data in one centralized hub. If your needs extend further, easily incorporate ERIC eConsent and ePRO to build a comprehensive ecosystem of research tools.
+              Explore eRIC EDC, our most robust module, to see how it can help you capture and manage all your study data in one centralized hub. If your needs extend further, easily incorporate eRIC eConsent and ePRO to build a comprehensive ecosystem of research tools.
 
             </p>
 
@@ -164,7 +164,7 @@ export default function HeroSection() {
         </h2>
 
         <p className="mb-12 tracking-wide text-sm">
-            Explore ERIC EDC, our most robust module, to see how it can help you capture and manage all your study data in one centralized hub. If your needs extend further, easily incorporate ERIC eConsent and ePRO to build a comprehensive ecosystem of research tools.
+            Explore eRIC EDC, our most robust module, to see how it can help you capture and manage all your study data in one centralized hub. If your needs extend further, easily incorporate eRIC eConsent and ePRO to build a comprehensive ecosystem of research tools.
         </p>
 
         <div className="space-y-6">

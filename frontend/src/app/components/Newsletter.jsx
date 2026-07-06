@@ -53,7 +53,7 @@ export default function NewsletterSection() {
     className=" bg-blue-800 hover:bg-[#1D4ED8] text-white px-6 py-3 rounded-lg transition w-full sm:w-auto flex items-center justify-center gap-2"
   >
     {/* <UserRound /> */}
-    <span className="text-2xl pb-2">👉 </span>Request a Demo
+    <span className="text-2xl pb-2"> </span>Request a Demo
   </button>
 </div>
 

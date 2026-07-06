@@ -33,7 +33,7 @@ export default function EricAIStatistics() {
           <div className="relative w-full">
             <img
               src="/aiagentspages/statistics.jpg"
-              alt="Eric AI Statistics"
+              alt="eRIC AI Statistics"
               className="w-full h-full object-cover"
             />
             <div className="absolute inset-0 bg-gradient-to-r from-black/40 via-black/20 to-transparent"></div>

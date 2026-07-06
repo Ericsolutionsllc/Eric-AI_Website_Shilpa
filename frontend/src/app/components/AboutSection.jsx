@@ -60,7 +60,7 @@ export default function AboutSection() {
 
 
             <h1 className="text-4xl md:text-5xl font-bold">
-              Why <span className="font-bold text-orange-700">Eric AI</span>
+              Why <span className="font-bold text-orange-700">eRIC AI</span>
             </h1>
 
 
@@ -76,7 +76,7 @@ export default function AboutSection() {
 
           </p>
           <p className="text-2xl mt-6 text-gray-600 leading-relaxed font-bold">
-            Eric AI takes a different approach.
+            eRIC AI takes a different approach.
 
 
           </p>

@@ -119,7 +119,7 @@ export default function HeroSection() {
 
         {/* Top Heading */}
         <h1 className="text-center text-3xl md:text-4xl font-semibold mt-20">
-          Eric Clinical Trial Management Software (CTMS)
+          eRIC Clinical Trial Management Software (CTMS)
         </h1>
 
         {/* Two Column Layout */}
@@ -133,14 +133,14 @@ export default function HeroSection() {
             </h2>
 
             <p className="text-gray-600 mb-4 leading-relaxed">
-              ERIC CTMS is designed to provide the benefits of a Clinical Trial
+              eRIC CTMS is designed to provide the benefits of a Clinical Trial
               Management System (CTMS) without the substantial upfront financial
               and resource commitments typical of traditional enterprise systems
               or the inefficiencies inherent in spreadsheet trackers.
             </p>
 
             <p className="text-gray-600 mb-6 leading-relaxed">
-              ERIC CTMS offers drug developers a scalable and cost-effective
+              eRIC CTMS offers drug developers a scalable and cost-effective
               solution to enhance management, performance, and reduce study
               startup costs in clinical trials.
             </p>

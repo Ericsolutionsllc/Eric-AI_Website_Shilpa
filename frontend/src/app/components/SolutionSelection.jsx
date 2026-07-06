@@ -120,11 +120,7 @@ export default function SolutionsSection() {
               </h2>
 
               <p className="text-gray-500 mt-4 leading-relaxed text-[17px]">
-                Our platform is built so your team does not need a six-week
-                implementation project to use it. A single 90-minute guided
-                onboarding session is enough for most teams to start managing
-                live study data the same day — no heavy customisation, no steep
-                learning curve.
+                eRIC AI agents work inside your existing study workflow — no six-week implementation project. A single 90-minute onboarding session is enough for most teams to put their first agent to work the same day, with your reviewers in the approval loop from hour one.
               </p>
             </motion.div>
 
@@ -233,11 +229,7 @@ export default function SolutionsSection() {
               </h2>
 
               <p className="text-gray-500 mt-5 leading-relaxed text-[18px]">
-                Our platform is built so your team does not need a six-week
-                implementation project to use it. A single 90-minute guided
-                onboarding session is enough for most teams to start managing
-                live study data the same day — no heavy customisation, no steep
-                learning curve.
+               eRIC AI agents work inside your existing study workflow — no six-week implementation project. A single 90-minute onboarding session is enough for most teams to put their first agent to work the same day, with your reviewers in the approval loop from hour one.
               </p>
             </motion.div>
           </div>
@@ -325,11 +317,7 @@ export default function SolutionsSection() {
               </h2>
 
               <p className="text-gray-500 mt-4 leading-relaxed text-[15px]">
-                Our platform is built so your team does not need a six-week
-                implementation project to use it. A single 90-minute guided
-                onboarding session is enough for most teams to start managing
-                live study data the same day — no heavy customisation, no steep
-                learning curve.
+               eRIC AI agents work inside your existing study workflow — no six-week implementation project. A single 90-minute onboarding session is enough for most teams to put their first agent to work the same day, with your reviewers in the approval loop from hour one.
               </p>
             </motion.div>
           </div>

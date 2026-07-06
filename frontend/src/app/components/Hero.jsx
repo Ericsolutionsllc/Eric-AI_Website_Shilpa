@@ -149,7 +149,7 @@ export default function Hero() {
               {/* TEXT (Second on mobile, first on desktop) */}
               <div className="order-2 md:order-1 text-white">
                 <h1 className="text-3xl md:text-4xl font-bold leading-tight">
-                  AI Agents Accelerating
+                  AI Agents That Accelerating
                 </h1>
                 <h1 className="text-3xl md:text-4xl font-bold leading-tight">
                   Clinical Trials - Responsibly
@@ -303,7 +303,7 @@ export default function Hero() {
               {/* TEXT (unchanged) */}
               <div className="order-2 md:order-1 text-white text-center">
                 <h1 className="text-3xl md:text-4xl font-bold leading-tight">
-                  AI Agents Accelerating
+                  AI Agents That Accelerating
                 </h1>
                 <h1 className="text-3xl md:text-4xl font-bold leading-tight">
                   Clinical Trials - Responsibly
@@ -468,7 +468,7 @@ export default function Hero() {
               {/* TEXT (Second on mobile, first on desktop) */}
               <div className="order-2 md:order-1 text-white">
                 <h1 className="text-3xl md:text-4xl font-bold leading-tight">
-                  AI Agents Accelerating
+                  AI Agents That Accelerating
                 </h1>
                 <h1 className="text-3xl md:text-4xl font-bold leading-tight">
                   Clinical Trials - Responsibly

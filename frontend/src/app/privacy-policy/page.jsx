@@ -6,7 +6,7 @@ const PrivacyPolicy = () => {
   return (
     <>
     <Navbar/>
-    <div className="bg-[#FEF0E1] min-h-screen py-10 px-4 mt-40">
+    <div className="bg-[#FEF0E1] min-h-screen py-10 px-4 mt-35">
       <div className="max-w-5xl mx-auto bg-white rounded-2xl shadow-lg p-6 md:p-10">
 
         {/* Heading */}

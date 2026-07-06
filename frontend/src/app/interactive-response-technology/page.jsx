@@ -82,7 +82,7 @@ export default function EtmfTechnology() {
   const content = {
     iwrs: {
     title: "IWRS-INTERACTIVE RESPONSE TECHNOLOGY",
-      text: "Simple and intutive. The IWRS will allow subjects to be enrolled in your clinical trial 24/7 at an affordable price.",
+      text: "Simple and intuitive. The IWRS will allow subjects to be enrolled in your clinical trial 24/7 at an affordable price.",
     heading:"The IWRS can also communicate with other systems automatically including our ETC system , allow you to use ITClinical's IWRS tool independently while maintaining a communication with an external vendor's tool.",
     subheading1:"Enroll Patients in the clinical trial",
     subheading2:"Export PDF/Spreadsheet reports",
@@ -134,7 +134,7 @@ export default function EtmfTechnology() {
       
                 
                    <h1 className="text-3xl md:text-4xl font-semibold">
-                         ERIC Interactive Response Technology (IRT)
+                         eRIC Interactive Response Technology (IRT)
                    </h1>
                    
                 
@@ -153,7 +153,7 @@ export default function EtmfTechnology() {
                 </h2>
     
                 <p className="text-gray-600 mb-4 leading-relaxed">
-                 ERIC Interactive Response Technology (IRT), offers Interactive Web Response System.
+                 eRIC Interactive Response Technology (IRT), offers Interactive Web Response System.
                 </p>
                 <p className="text-gray-600 mb-4 leading-relaxed">
                  It is a full fledged RTSM (Randomization and Trial Supply Management) solution that tracks your product throughout the entire clinical trial (including dispensing!). The IWRS can be used in any type of clinical trial, including medical devices. As a simple tool that serves the purpose of randomize patients, it is a cost-effective alternative that can be used independently or in integration with EDC.
